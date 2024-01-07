@@ -1,0 +1,3 @@
+.animated-move-up-down {
+    animation: moveUpDown 1s infinite alternate;
+  }

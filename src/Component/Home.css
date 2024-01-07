@@ -1,0 +1,12 @@
+.coin-animation {
+    animation: moveUpDown 1s infinite alternate;
+  }
+  
+  @keyframes moveUpDown {
+    0% {
+      transform: translateX(-6px);
+    }
+    100% {
+      transform: translateX(6px);
+    }
+  }
